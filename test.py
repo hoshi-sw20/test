@@ -13,6 +13,7 @@ print(lis02[2])
 
 
 
+
 for i in range (5):  
     if i ==3:
         break
